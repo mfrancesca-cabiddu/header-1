@@ -1,9 +1,12 @@
-h1 {
+	h1 {
     font-size: 58px;
+    text-align: left;
 }
 
 h4 {
     font-size: 24px;
+    font-style:unset;
+    text-align: left;
 }
 .jumbotron {
     background: url(../images/bg.jpg);
