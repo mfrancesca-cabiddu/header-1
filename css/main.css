@@ -1,12 +1,14 @@
 h1 {
 	font-size: 58px;
 	font-family: "AdineKirnberg";
+	text-align: left;
 }
 h4 {
 	color:#6A5ACD;
 	font-size: 24px;
 	font-family: "Cellos Script";
 	font-style: unset;
+	text-align: left;
 
 }
 .jumbotron {
