@@ -7,7 +7,7 @@ h4 {
 	color:#6A5ACD;
 	font-size: 24px;
 	font-family: "Cellos Script";
-	font-style:unset;
+	font-style: unset;
 	text-align: left;
 
 }
@@ -27,7 +27,7 @@ h4 {
 		border-color: transparent;
 	}
 	.navbar-default .navbar-nav>li>a {
-		color:#D2B48C;
+		color: #D2B48C;
 		font-family: "Cellos Script";
 		font-size: 20px;
 		font-weight: 700;
