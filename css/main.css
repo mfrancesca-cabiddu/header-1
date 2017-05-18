@@ -1,7 +1,18 @@
+/* form style */
+ .effezero-form {
+ 	padding: 10px 200px 10px 200px;
+ }
+ .effezero-form textarea{
+ 	height: 108px;
+ }
 h1 {
 	font-size: 58px;
 	font-family: "AdineKirnberg";
 	text-align: left;
+}
+h2 {
+	font-size: 48px;
+	font-family: "AdineKirnberg";
 }
 h4 {
 	color:#6A5ACD;
@@ -9,7 +20,12 @@ h4 {
 	font-family: "Cellos Script";
 	font-style: unset;
 	text-align: left;
-
+}
+h5 {
+	color:#6A5ACD;
+	font-size: 30px;
+	font-family: "Cellos Script";
+	font-style: unset;
 }
 .jumbotron {
 	background: url(../images/bg.jpg);
